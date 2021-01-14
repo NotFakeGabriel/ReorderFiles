@@ -35,4 +35,6 @@ and in newDirectory you have to put the path of the directory you want your new 
 ## Learnings
 
 > In this project I lern how to use Node JS File System, to understand how to use that 
-I use the following Meddium's [article](https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d)
+I use the following Meddium's article:
+
+- [Node — Como manipular arquivos usando FS](https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d)
