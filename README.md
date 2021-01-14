@@ -31,6 +31,7 @@ and in newDirectory you have to put the path of the directory you want your new 
 ``` 
 ``` 
 5) node index.js
+```
 
 ## Learnings
 
