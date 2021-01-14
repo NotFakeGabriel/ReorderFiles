@@ -26,11 +26,13 @@
 3) yarn
 ```
 ```
-4) Now you have to change to variables (oldDirectory and newDirectory) in oldDirectory you have to put the path of the directory you have the files you want to reorder and in newDirectory you have to put the path of the directory you want your new order files will save.
+4) Now you have to change to variables (oldDirectory and newDirectory) in oldDirectory you have to put the path of the directory you have the files you want to reorder 
+and in newDirectory you have to put the path of the directory you want your new order files will save.
 ``` 
 ``` 
 5) node index.js
 
 ## Learnings
 
-> In this project I lern how to use Node JS File System, to understand how to use that I use the following Meddium's article [https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d](https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d)
+> In this project I lern how to use Node JS File System, to understand how to use that 
+I use the following Meddium's article [https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d](https://thihenos.medium.com/node-crud-arquivos-142e3fb1892d)
